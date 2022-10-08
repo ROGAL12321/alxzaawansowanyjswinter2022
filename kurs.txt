@@ -1,3 +1,5 @@
 Damian jest na kursie ALX - zmiana pliku - drugie podejscie
 
 Zmiany w Visual Studio Code
+
+Drugie zmiany w VSC
